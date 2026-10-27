@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:34d399&height=190&section=header&text=Ridha%20Wannessi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20full-stack%20%C2%B7%20Backend%20%C2%B7%20IA&descAlignY=58&descSize=18" alt="Ridha Wannessi — Développeur full-stack" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:34d399&height=190&section=header&text=Ridha%20Wannessi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=IT%20Engineering%20Student%20%E2%80%93%20Web%20%26%20Multimedia%20Technologies&descAlignY=58&descSize=18" alt="Ridha Wannessi — IT Engineering Student – Web & Multimedia Technologies" width="100%">
 </p>
 
 <p align="center">
@@ -18,7 +18,10 @@
 
 ### 👋 À propos
 
-Je conçois et développe des applications de bout en bout : API et architectures backend
+**IT Engineering Student – Web & Multimedia Technologies**
+
+Étudiant en cycle ingénieur en informatique (technologies du web et du multimédia), je conçois
+et développe des applications de bout en bout : API et architectures backend
 (monolithe modulaire, microservices), applications web et mobiles, modèles de machine
 learning et applications d'IA générative. J'attache une importance particulière à une
 architecture propre, à la sécurité, aux tests automatisés et aux déploiements reproductibles.
