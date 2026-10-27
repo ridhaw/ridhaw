@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:34d399&height=190&section=header&text=Ridha%20Wannessi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=IT%20Engineering%20Student%20%E2%80%93%20Web%20%26%20Multimedia%20Technologies&descAlignY=58&descSize=18" alt="Ridha Wannessi — IT Engineering Student – Web & Multimedia Technologies" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:34d399&height=190&section=header&text=Ridha%20Wannessi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=IT%20Engineering%20Student%20%E2%80%93%20Web%20%26amp%3B%20Multimedia%20Technologies&descAlignY=58&descSize=18" alt="Ridha Wannessi — IT Engineering Student – Web & Multimedia Technologies" width="100%">
 </p>
 
 <p align="center">
