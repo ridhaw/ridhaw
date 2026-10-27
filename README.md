@@ -20,7 +20,7 @@
 
 **IT Engineering Student – Web & Multimedia Technologies**
 
-Étudiant en cycle ingénieur en informatique (technologies du web et du multimédia), je conçois
+Étudiant en cycle ingénieur en informatique (technologies du web et du multimédia) à l'**ISIMS Sfax**, je conçois
 et développe des applications de bout en bout : API et architectures backend
 (monolithe modulaire, microservices), applications web et mobiles, modèles de machine
 learning et applications d'IA générative. J'attache une importance particulière à une
